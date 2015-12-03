@@ -11,14 +11,14 @@ You need to have `Zeppelin` and `Spark installed`.
 
 
 Now install Git.
-```bash
+```shell
 sudo yum install -y git
 sudo apt-get install git
 ```
 
 
 Clone this repo.
-```bash
+```shell
 git clone https://github.com/brahmbhattspandan/MonteCarloData.git
 ```
 
