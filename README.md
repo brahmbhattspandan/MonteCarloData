@@ -1,5 +1,8 @@
 # Value at Risk Analysis
 
+[Presentation for this project](https://www.youtube.com/watch?v=zdmgxdJoouU)
+
+
 In order to run, start a Cluster (prefered EMR cluster).
 
 
